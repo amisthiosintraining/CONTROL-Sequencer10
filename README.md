@@ -1,5 +1,5 @@
 # CONTROL-Sequencer10
-Basic recolours for the Extradimensional Suit
+Basic recolours for the Extradimensional Suit.
 
 ## Instructions
 1) You will <a href="https://www.nexusmods.com/control/mods/11">NEED Loose File Loader</a> in order to install these mods.
