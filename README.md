@@ -1,4 +1,4 @@
-# CONTROL-Sequencer10
+# CONTROL | Sequencer 1.0
 Basic recolours for the Extradimensional Suit.
 
 ## Instructions
