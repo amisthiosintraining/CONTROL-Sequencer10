@@ -1,6 +1,8 @@
 # CONTROL | Sequencer 1.0
 Basic recolours for the Extradimensional Suit.
 
+<img src="https://imgur.com/sBi13FC.png" width="1000">
+
 ## Instructions
 1) You will <a href="https://www.nexusmods.com/control/mods/11">NEED Loose File Loader</a> in order to install these mods.
 2) If you haven't obtained the PS4 exclusive outfits (Urban Response, Astral Dive, Tactical Response) or others please refer to Fallbob's page <a href="https://www.nexusmods.com/control/mods/33">here</a> on how to acquire them.
